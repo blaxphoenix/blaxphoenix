@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @blaxphoenix
-- 👀 I’m interested in java, android, stuff like that
-- 🌱 I’m currently learning python and rasa, android, kotlin, libgdx, java
-- 💞️ I’m looking to collaborate on nothing rn
-- 📫 How to reach me: just don't
+- 👀 I’m interested in Java, Kotlin, Android, game development etc.
+- 🌱 I’m currently learning Python and RASA, Android, Kotlin, Libgdx
+- 💞️ I’m looking to collaborate on: nothing right now
+- 📫 How to reach me: CLOSED
 
 <!---
 blaxphoenix/blaxphoenix is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
